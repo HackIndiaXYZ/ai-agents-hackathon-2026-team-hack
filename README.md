@@ -3,7 +3,7 @@
 > **AI Agents Hackathon 2026 — HackIndia** | Team Hack | ID: HI012414  
 > **Adaptive Data Track** | Built with Groq + LangGraph + Adaption
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-agentbridge.vercel.app-7c3aed?style=for-the-badge)](https://ai-agents-hackathon-2026-team-hack.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-agentbridge--ai.lovable.app-7c3aed?style=for-the-badge)](https://agentbridge-ai.lovable.app)
 [![Backend](https://img.shields.io/badge/Backend-Render-46E3B7?style=for-the-badge)](https://agentbridge-backend-q0o8.onrender.com)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
