@@ -1,0 +1,10 @@
+{
+  "name": "AgentBridge Enterprise Workflow Dataset",
+  "description": "AI agent task traces from HackIndia 2026",
+  "platform": "Adaption Adaptive Data",
+  "languages": ["en", "hi", "mr", "gu", "ta", "te"],
+  "tools": ["gmail", "slack", "jira", "gdrive", "web_search"],
+  "hackathon": "HackIndia AI Agents Hackathon 2026",
+  "team": "Team Hack",
+  "team_id": "HI012414"
+}
