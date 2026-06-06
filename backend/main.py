@@ -389,7 +389,7 @@ async def websocket_endpoint(websocket: WebSocket, session_id: str):
 if __name__ == "__main__":
     print("=" * 50)
     print("  AgentBridge Backend")
-    print("  Running at http://localhost:8000")
+    print("  Running at https://agentbridge-backend-q0o8.onrender.com")
     print("  Make sure GROQ_API_KEY is in .env")
     print("=" * 50)
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)

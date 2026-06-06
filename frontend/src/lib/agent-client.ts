@@ -1,6 +1,6 @@
-// Real backend client for AgentBridge at http://localhost:8000
+// Real backend client for AgentBridge at https://agentbridge-backend-q0o8.onrender.com
 
-export const API_BASE = "http://localhost:8000";
+export const API_BASE = "https://agentbridge-backend-q0o8.onrender.com";
 export const WS_BASE = "ws://localhost:8000";
 
 export interface RunResponse {
